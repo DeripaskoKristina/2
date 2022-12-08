@@ -1,0 +1,15 @@
+C:\Users\yuriy\Desktop\Test_4\test2\test22\bin\Debug\net7.0\test22.exe
+C:\Users\yuriy\Desktop\Test_4\test2\test22\bin\Debug\net7.0\test22.deps.json
+C:\Users\yuriy\Desktop\Test_4\test2\test22\bin\Debug\net7.0\test22.runtimeconfig.json
+C:\Users\yuriy\Desktop\Test_4\test2\test22\bin\Debug\net7.0\test22.dll
+C:\Users\yuriy\Desktop\Test_4\test2\test22\bin\Debug\net7.0\test22.pdb
+C:\Users\yuriy\Desktop\Test_4\test2\test22\obj\Debug\net7.0\test22.csproj.AssemblyReference.cache
+C:\Users\yuriy\Desktop\Test_4\test2\test22\obj\Debug\net7.0\test22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuriy\Desktop\Test_4\test2\test22\obj\Debug\net7.0\test22.AssemblyInfoInputs.cache
+C:\Users\yuriy\Desktop\Test_4\test2\test22\obj\Debug\net7.0\test22.AssemblyInfo.cs
+C:\Users\yuriy\Desktop\Test_4\test2\test22\obj\Debug\net7.0\test22.csproj.CoreCompileInputs.cache
+C:\Users\yuriy\Desktop\Test_4\test2\test22\obj\Debug\net7.0\test22.dll
+C:\Users\yuriy\Desktop\Test_4\test2\test22\obj\Debug\net7.0\refint\test22.dll
+C:\Users\yuriy\Desktop\Test_4\test2\test22\obj\Debug\net7.0\test22.pdb
+C:\Users\yuriy\Desktop\Test_4\test2\test22\obj\Debug\net7.0\test22.genruntimeconfig.cache
+C:\Users\yuriy\Desktop\Test_4\test2\test22\obj\Debug\net7.0\ref\test22.dll
