@@ -1,0 +1,15 @@
+C:\Users\yuriy\Desktop\Test_4\test2\test21\bin\Debug\net7.0\test21.exe
+C:\Users\yuriy\Desktop\Test_4\test2\test21\bin\Debug\net7.0\test21.deps.json
+C:\Users\yuriy\Desktop\Test_4\test2\test21\bin\Debug\net7.0\test21.runtimeconfig.json
+C:\Users\yuriy\Desktop\Test_4\test2\test21\bin\Debug\net7.0\test21.dll
+C:\Users\yuriy\Desktop\Test_4\test2\test21\bin\Debug\net7.0\test21.pdb
+C:\Users\yuriy\Desktop\Test_4\test2\test21\obj\Debug\net7.0\test21.csproj.AssemblyReference.cache
+C:\Users\yuriy\Desktop\Test_4\test2\test21\obj\Debug\net7.0\test21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuriy\Desktop\Test_4\test2\test21\obj\Debug\net7.0\test21.AssemblyInfoInputs.cache
+C:\Users\yuriy\Desktop\Test_4\test2\test21\obj\Debug\net7.0\test21.AssemblyInfo.cs
+C:\Users\yuriy\Desktop\Test_4\test2\test21\obj\Debug\net7.0\test21.csproj.CoreCompileInputs.cache
+C:\Users\yuriy\Desktop\Test_4\test2\test21\obj\Debug\net7.0\test21.dll
+C:\Users\yuriy\Desktop\Test_4\test2\test21\obj\Debug\net7.0\refint\test21.dll
+C:\Users\yuriy\Desktop\Test_4\test2\test21\obj\Debug\net7.0\test21.pdb
+C:\Users\yuriy\Desktop\Test_4\test2\test21\obj\Debug\net7.0\test21.genruntimeconfig.cache
+C:\Users\yuriy\Desktop\Test_4\test2\test21\obj\Debug\net7.0\ref\test21.dll
